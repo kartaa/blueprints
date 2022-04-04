@@ -3,7 +3,7 @@
   "name": "Notion",
   "description": "Fastest way to search and create Notion page.",
   "icon": "notion-logo.png",
-  "author": "HenriChabrand",
+  "author": "Fork-HenriChabrand",
   "license": "MIT",
   "authentification": {
     "method": "oauth_2",
